@@ -1,0 +1,642 @@
+[
+    {
+        "name": "Lady Gaga",
+        "phones": [
+            "1112223333"
+        ],
+        "email": "ladygaga@gmail.com",
+        "birthday": "28.03.1986",
+        "notions": [
+            {
+                "text": "Exciting adventure",
+                "hashtags": [
+                    "#travel",
+                    "#music"
+                ]
+            }
+        ],
+        "addresses": [
+            "Los Angeles, CA"
+        ]
+    },
+    {
+        "name": "Quentin Tarantino",
+        "phones": [
+            "4445556666"
+        ],
+        "email": "qtarantino@gmail.com",
+        "birthday": "27.03.1963",
+        "notions": [
+            {
+                "text": "Creative storytelling",
+                "hashtags": [
+                    "#film",
+                    "#art"
+                ]
+            }
+        ],
+        "addresses": [
+            "Beverly Hills, CA"
+        ]
+    },
+    {
+        "name": "Daniel Craig",
+        "phones": [
+            "7778889999"
+        ],
+        "email": "dcraig@gmail.com",
+        "birthday": "22.03.1968",
+        "notions": [
+            {
+                "text": "Action-packed thriller",
+                "hashtags": [
+                    "#movies",
+                    "#adventure"
+                ]
+            }
+        ],
+        "addresses": [
+            "London, UK"
+        ]
+    },
+    {
+        "name": "Jenna Fischer",
+        "phones": [
+            "1234567890"
+        ],
+        "email": "jennafischer@gmail.com",
+        "birthday": "07.03.1974",
+        "notions": [
+            {
+                "text": "Comedic genius",
+                "hashtags": [
+                    "#comedy",
+                    "#acting"
+                ]
+            }
+        ],
+        "addresses": [
+            "Los Angeles, CA"
+        ]
+    },
+    {
+        "name": "Rachel Weisz",
+        "phones": [
+            "0987654321"
+        ],
+        "email": "rweisz@gmail.com",
+        "birthday": "07.03.1970",
+        "notions": [
+            {
+                "text": "Timeless elegance",
+                "hashtags": [
+                    "#beauty",
+                    "#fashion"
+                ]
+            }
+        ],
+        "addresses": [
+            "London, UK"
+        ]
+    },
+    {
+        "name": "Bruce Willis",
+        "phones": [
+            "5566778899"
+        ],
+        "email": "bwillis@gmail.com",
+        "birthday": "19.03.1955",
+        "notions": [
+            {
+                "text": "Action hero legend",
+                "hashtags": [
+                    "#legend",
+                    "#movies"
+                ]
+            }
+        ],
+        "addresses": [
+            "New York, NY"
+        ]
+    },
+    {
+        "name": "Glenn Close",
+        "phones": [
+            "3344556677"
+        ],
+        "email": "gclose@gmail.com",
+        "birthday": "19.03.1947",
+        "notions": [
+            {
+                "text": "Versatile talent",
+                "hashtags": [
+                    "#acting",
+                    "#movies"
+                ]
+            }
+        ],
+        "addresses": [
+            "Los Angeles, CA"
+        ]
+    },
+    {
+        "name": "William Shatner",
+        "phones": [
+            "9870123456"
+        ],
+        "email": "wshatner@gmail.com",
+        "birthday": "22.03.1931",
+        "notions": [
+            {
+                "text": "Sci-fi pioneer",
+                "hashtags": [
+                    "#scifi",
+                    "#tv"
+                ]
+            }
+        ],
+        "addresses": [
+            "Toronto, Canada"
+        ]
+    },
+    {
+        "name": "Reese Witherspoon",
+        "phones": [
+            "6543210987"
+        ],
+        "email": "reese.witherspoon@gmail.com",
+        "birthday": "22.03.1976",
+        "notions": [
+            {
+                "text": "Inspirational actress",
+                "hashtags": [
+                    "#inspiration",
+                    "#acting"
+                ]
+            }
+        ],
+        "addresses": [
+            "Nashville, TN"
+        ]
+    },
+    {
+        "name": "Spike Lee",
+        "phones": [
+            "7890123456"
+        ],
+        "email": "spikelee@gmail.com",
+        "birthday": "20.03.1957",
+        "notions": [
+            {
+                "text": "Bold filmmaker",
+                "hashtags": [
+                    "#movies",
+                    "#filmmaking"
+                ]
+            }
+        ],
+        "addresses": [
+            "Brooklyn, NY"
+        ]
+    },
+    {
+        "name": "Alexandra Daddario",
+        "phones": [
+            "1234567890"
+        ],
+        "email": "adaddario@gmail.com",
+        "birthday": "16.03.1986",
+        "notions": [
+            {
+                "text": "Talented actress",
+                "hashtags": [
+                    "#acting",
+                    "#movies"
+                ]
+            }
+        ],
+        "addresses": [
+            "Los Angeles, CA"
+        ]
+    },
+    {
+        "name": "Chris Hemsworth",
+        "phones": [
+            "9876543210"
+        ],
+        "email": "chemsworth@gmail.com",
+        "birthday": "22.03.1983",
+        "notions": [
+            {
+                "text": "Mighty Avenger",
+                "hashtags": [
+                    "#superhero",
+                    "#movies"
+                ]
+            }
+        ],
+        "addresses": [
+            "Byron Bay, Australia"
+        ]
+    },
+    {
+        "name": "Emma Watson",
+        "phones": [
+            "5556667777"
+        ],
+        "email": "ewatson@gmail.com",
+        "birthday": "15.04.1990",
+        "notions": [
+            {
+                "text": "Feminist icon",
+                "hashtags": [
+                    "#feminism",
+                    "#activism"
+                ]
+            }
+        ],
+        "addresses": [
+            "London, UK"
+        ]
+    },
+    {
+        "name": "Tom Hiddleston",
+        "phones": [
+            "4445556666"
+        ],
+        "email": "thiddleston@gmail.com",
+        "birthday": "09.02.1981",
+        "notions": [
+            {
+                "text": "Loki mischief",
+                "hashtags": [
+                    "#godofmischief",
+                    "#acting"
+                ]
+            }
+        ],
+        "addresses": [
+            "London, UK"
+        ]
+    },
+    {
+        "name": "Ryan Reynolds",
+        "phones": [
+            "3344556677"
+        ],
+        "email": "rreynolds@gmail.com",
+        "birthday": "23.10.1976",
+        "notions": [
+            {
+                "text": "Deadpool humor",
+                "hashtags": [
+                    "#superhero",
+                    "#comedy"
+                ]
+            }
+        ],
+        "addresses": [
+            "Vancouver, Canada"
+        ]
+    },
+    {
+        "name": "Zendaya",
+        "phones": [
+            "7778889999"
+        ],
+        "email": "zendaya@gmail.com",
+        "birthday": "01.09.1996",
+        "notions": [
+            {
+                "text": "Fashion trendsetter",
+                "hashtags": [
+                    "#fashion",
+                    "#style"
+                ]
+            }
+        ],
+        "addresses": [
+            "Los Angeles, CA"
+        ]
+    },
+    {
+        "name": "Gal Gadot",
+        "phones": [
+            "5566778899"
+        ],
+        "email": "ggadot@gmail.com",
+        "birthday": "30.04.1985",
+        "notions": [
+            {
+                "text": "Wonder Woman power",
+                "hashtags": [
+                    "#superhero",
+                    "#movies"
+                ]
+            }
+        ],
+        "addresses": [
+            "Tel Aviv, Israel"
+        ]
+    },
+    {
+        "name": "Margot Robbie",
+        "phones": [
+            "3344556677"
+        ],
+        "email": "mrobbie@gmail.com",
+        "birthday": "02.07.1990",
+        "notions": [
+            {
+                "text": "Harley Quinn mischief",
+                "hashtags": [
+                    "#superhero",
+                    "#movies"
+                ]
+            }
+        ],
+        "addresses": [
+            "Gold Coast, Australia"
+        ]
+    },
+    {
+        "name": "Chadwick Boseman",
+        "phones": [
+            "5566778899"
+        ],
+        "email": "cboseman@gmail.com",
+        "birthday": "29.11.1976",
+        "notions": [
+            {
+                "text": "Black Panther legacy",
+                "hashtags": [
+                    "#superhero",
+                    "#movies"
+                ]
+            }
+        ],
+        "addresses": [
+            "Anderson, SC"
+        ]
+    },
+    {
+        "name": "Anne Hathaway",
+        "phones": [
+            "3344556677"
+        ],
+        "email": "ahathaway@gmail.com",
+        "birthday": "12.11.1982",
+        "notions": [
+            {
+                "text": "Catwoman elegance",
+                "hashtags": [
+                    "#superhero",
+                    "#movies"
+                ]
+            }
+        ],
+        "addresses": [
+            "New York, NY"
+        ]
+    },
+    {
+        "name": "Idris Elba",
+        "phones": [
+            "5566778899"
+        ],
+        "email": "ielba@gmail.com",
+        "birthday": "06.09.1972",
+        "notions": [
+            {
+                "text": "Luther intensity",
+                "hashtags": [
+                    "#acting",
+                    "#tv"
+                ]
+            }
+        ],
+        "addresses": [
+            "London, UK"
+        ]
+    },
+    {
+        "name": "Dwayne Johnson",
+        "phones": [
+            "3344556677"
+        ],
+        "email": "therock@gmail.com",
+        "birthday": "02.05.1972",
+        "notions": [
+            {
+                "text": "The Rock charisma",
+                "hashtags": [
+                    "#movies",
+                    "#wrestling"
+                ]
+            }
+        ],
+        "addresses": [
+            "Miami, FL"
+        ]
+    },
+    {
+        "name": "Emma Stone",
+        "phones": [
+            "5566778899"
+        ],
+        "email": "estone@gmail.com",
+        "birthday": "06.11.1988",
+        "notions": [
+            {
+                "text": "La La Land star",
+                "hashtags": [
+                    "#movies",
+                    "#acting"
+                ]
+            }
+        ],
+        "addresses": [
+            "Los Angeles, CA"
+        ]
+    },
+    {
+        "name": "Matthew McConaughey",
+        "phones": [
+            "3344556677"
+        ],
+        "email": "mmcconaughey@gmail.com",
+        "birthday": "04.11.1969",
+        "notions": [
+            {
+                "text": "Dallas Buyers Club",
+                "hashtags": [
+                    "#movies",
+                    "#acting"
+                ]
+            }
+        ],
+        "addresses": [
+            "Austin, TX"
+        ]
+    },
+    {
+        "name": "Jessica Chastain",
+        "phones": [
+            "5566778899"
+        ],
+        "email": "jchastain@gmail.com",
+        "birthday": "24.03.1977",
+        "notions": [
+            {
+                "text": "Zero Dark Thirty",
+                "hashtags": [
+                    "#movies",
+                    "#acting"
+                ]
+            }
+        ],
+        "addresses": [
+            "New York, NY"
+        ]
+    },
+    {
+        "name": "Ben Affleck",
+        "phones": [
+            "3344556677"
+        ],
+        "email": "baffleck@gmail.com",
+        "birthday": "15.08.1972",
+        "notions": [
+            {
+                "text": "Batman legacy",
+                "hashtags": [
+                    "#superhero",
+                    "#movies"
+                ]
+            }
+        ],
+        "addresses": [
+            "Los Angeles, CA"
+        ]
+    },
+    {
+        "name": "Keanu Reeves",
+        "phones": [
+            "5566778899"
+        ],
+        "email": "kreeves@gmail.com",
+        "birthday": "02.09.1964",
+        "notions": [
+            {
+                "text": "Matrix icon",
+                "hashtags": [
+                    "#movies",
+                    "#action"
+                ]
+            }
+        ],
+        "addresses": [
+            "Los Angeles, CA"
+        ]
+    },
+    {
+        "name": "Chris Evans",
+        "phones": [
+            "3344556677"
+        ],
+        "email": "cevans@gmail.com",
+        "birthday": "19.03.1981",
+        "notions": [
+            {
+                "text": "Captain America",
+                "hashtags": [
+                    "#superhero",
+                    "#movies"
+                ]
+            }
+        ],
+        "addresses": [
+            "Boston, MA"
+        ]
+    },
+    {
+        "name": "Oscar Isaac",
+        "phones": [
+            "9988776655"
+        ],
+        "email": "oisaac@gmail.com",
+        "birthday": "09.03.1979",
+        "notions": [
+            {
+                "text": "Star Wars hero",
+                "hashtags": [
+                    "#movies",
+                    "#acting"
+                ]
+            }
+        ],
+        "addresses": [
+            "Los Angeles, CA"
+        ]
+    },
+    {
+        "name": "Eva Mendes",
+        "phones": [
+            "3344556677"
+        ],
+        "email": "emendes@gmail.com",
+        "birthday": "05.03.1974",
+        "notions": [
+            {
+                "text": "Hollywood beauty",
+                "hashtags": [
+                    "#beauty",
+                    "#movies"
+                ]
+            }
+        ],
+        "addresses": [
+            "Los Angeles, CA"
+        ]
+    },
+    {
+        "name": "Bryan Cranston",
+        "phones": [
+            "5566778899"
+        ],
+        "email": "bcranston@gmail.com",
+        "birthday": "07.03.1956",
+        "notions": [
+            {
+                "text": "Breaking Bad star",
+                "hashtags": [
+                    "#tv",
+                    "#acting"
+                ]
+            }
+        ],
+        "addresses": [
+            "Los Angeles, CA"
+        ]
+    },
+    {
+        "name": "Terrence Howard",
+        "phones": [
+            "3344556677"
+        ],
+        "email": "thoward@gmail.com",
+        "birthday": "11.03.1969",
+        "notions": [
+            {
+                "text": "Empire actor",
+                "hashtags": [
+                    "#tv",
+                    "#music"
+                ]
+            }
+        ],
+        "addresses": [
+            "Chicago, IL"
+        ]
+    }
+]
