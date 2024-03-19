@@ -1,2 +1,2 @@
 # goitneo-python-demo-group6
- final release
+ final release from 19.03.2024
